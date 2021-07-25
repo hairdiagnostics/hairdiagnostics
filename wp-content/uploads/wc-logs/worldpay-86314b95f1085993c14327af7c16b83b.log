@@ -1,0 +1,3025 @@
+08-27-2015 @ 11:06:26 - =============================================
+08-27-2015 @ 11:06:26 - ============= WorldPay Logging ================
+08-27-2015 @ 11:06:26 - ============= 27 Aug 2015, 11:06:26 =============
+08-27-2015 @ 11:06:26 - =============================================
+08-27-2015 @ 11:06:26 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55deef30a9837-1658-1440673586
+    [amount] => 125.00
+    [currency] => GBP
+    [desc] => Order 1658 with Hair Diagnostics
+    [name] => Frank Martin
+    [address1] => Rush Green Hall
+    [address2] => Rush Green
+    [address3] => 
+    [town] => Hertford
+    [region] => Hertfordshire
+    [postcode] => SG13 7SD
+    [country] => GB
+    [tel] => 01920444797
+    [email] => frank.martin@digital-results.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55deef30a9837&order_id=2036&redirect&_wpnonce=247b07af4f
+    [MC_order] => 2036
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => 818bd98c794be9a3fd73309cee440644
+)
+
+08-27-2015 @ 11:07:00 - WorldPay Response
+08-27-2015 @ 11:07:00 - ====================================
+08-27-2015 @ 11:07:00 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;125.00
+    [AAV] => 00000
+    [tel] => 01920444797
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => S
+    [address1] => Rush Green Hall
+    [address2] => Rush Green
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;125.00
+    [transStatus] => Y
+    [authCost] => 125.00
+    [amount] => 125.00
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1111
+    [authAmount] => 125.00
+    [postcode] => SG13 7SD
+    [cost] => 125.00
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => frank.martin@digital-results.com
+    [town] => Hertford
+    [authMode] => A
+    [region] => Hertfordshire
+    [MC_order] => 2036
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55deef30a9837&order_id=2036&redirect&_wpnonce=247b07af4f
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1658 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55deef30a9837-1658-1440673586
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => Rush Green Hall
+Rush Green
+
+Hertford
+Hertfordshire
+    [transTime] => 1440673625865
+    [name] => Frank Martin
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 188.39.152.195
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => Rush Green Hall
+Rush Green
+
+Hertford
+Hertfordshire
+    [transId] => 3034467485
+)
+
+08-27-2015 @ 11:07:00 - ====================================
+08-27-2015 @ 15:27:57 - =============================================
+08-27-2015 @ 15:27:57 - ============= WorldPay Logging ================
+08-27-2015 @ 15:27:57 - ============= 27 Aug 2015, 15:27:57 =============
+08-27-2015 @ 15:27:57 - =============================================
+08-27-2015 @ 15:27:57 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55df2c7c4d7af-1659-1440689277
+    [amount] => 395.00
+    [currency] => GBP
+    [desc] => Order 1659 with Hair Diagnostics
+    [name] => Rebecca Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => Lincs.
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => becky552@hotmail.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55df2c7c4d7af&order_id=2037&redirect&_wpnonce=bebb36dc4e
+    [MC_order] => 2037
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => 9ac4a280d83eac53783a46490f3c6bfd
+)
+
+08-27-2015 @ 15:28:31 - WorldPay Response
+08-27-2015 @ 15:28:31 - ====================================
+08-27-2015 @ 15:28:31 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;395.00
+    [AAV] => 00000
+    [tel] => 07810828282
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;395.00
+    [transStatus] => Y
+    [authCost] => 395.00
+    [amount] => 395.00
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1112
+    [authAmount] => 395.00
+    [postcode] => PE9 2AZ
+    [cost] => 395.00
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => becky552@hotmail.com
+    [town] => Stamford
+    [authMode] => A
+    [region] => Lincs.
+    [MC_order] => 2037
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55df2c7c4d7af&order_id=2037&redirect&_wpnonce=bebb36dc4e
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1659 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55df2c7c4d7af-1659-1440689277
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transTime] => 1440689317160
+    [name] => Rebecca Roberts
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 90.217.26.83
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transId] => 3034480687
+)
+
+08-27-2015 @ 15:28:31 - ====================================
+08-27-2015 @ 16:07:12 - =============================================
+08-27-2015 @ 16:07:12 - ============= WorldPay Logging ================
+08-27-2015 @ 16:07:12 - ============= 27 Aug 2015, 16:07:12 =============
+08-27-2015 @ 16:07:12 - =============================================
+08-27-2015 @ 16:07:12 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55df35af7afce-1660-1440691632
+    [amount] => 12.98
+    [currency] => GBP
+    [desc] => Order 1660 with Hair Diagnostics
+    [name] => Rebecca Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => Lincs.
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => becky552@hotmail.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55df35af7afce&order_id=2039&redirect&_wpnonce=7f9880f56f
+    [MC_order] => 2039
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => 60066123b0bdfdd91254510b4f850d1b
+)
+
+08-27-2015 @ 16:07:48 - WorldPay Response
+08-27-2015 @ 16:07:48 - ====================================
+08-27-2015 @ 16:07:48 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;12.98
+    [AAV] => 00000
+    [tel] => 07810828282
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;12.98
+    [transStatus] => Y
+    [authCost] => 12.98
+    [amount] => 12.98
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1112
+    [authAmount] => 12.98
+    [postcode] => PE9 2AZ
+    [cost] => 12.98
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => becky552@hotmail.com
+    [town] => Stamford
+    [authMode] => A
+    [region] => Lincs.
+    [MC_order] => 2039
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55df35af7afce&order_id=2039&redirect&_wpnonce=7f9880f56f
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1660 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55df35af7afce-1660-1440691632
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transTime] => 1440691676258
+    [name] => Rebecca Roberts
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 90.217.26.83
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transId] => 3034482587
+)
+
+08-27-2015 @ 16:07:48 - ====================================
+08-28-2015 @ 16:18:51 - =============================================
+08-28-2015 @ 16:18:51 - ============= WorldPay Logging ================
+08-28-2015 @ 16:18:51 - ============= 28 Aug 2015, 16:18:51 =============
+08-28-2015 @ 16:18:51 - =============================================
+08-28-2015 @ 16:18:51 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55e089ea2f01e-1661-1440778731
+    [amount] => 43.00
+    [currency] => GBP
+    [desc] => Order 1661 with Hair Diagnostics
+    [name] => Rebecca Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => Lincs.
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => becky552@hotmail.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55e089ea2f01e&order_id=2045&redirect&_wpnonce=0b93a87f38
+    [MC_order] => 2045
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => d082166edebb8638d7a24b344dae3180
+)
+
+08-28-2015 @ 16:19:51 - WorldPay Response
+08-28-2015 @ 16:19:51 - ====================================
+08-28-2015 @ 16:19:51 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;43.00
+    [AAV] => 00000
+    [tel] => 07810828282
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;43.00
+    [transStatus] => Y
+    [authCost] => 43.00
+    [amount] => 43.00
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1112
+    [authAmount] => 43.00
+    [postcode] => PE9 2AZ
+    [cost] => 43.00
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => becky552@hotmail.com
+    [town] => Stamford
+    [authMode] => A
+    [region] => Lincs.
+    [MC_order] => 2045
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55e089ea2f01e&order_id=2045&redirect&_wpnonce=0b93a87f38
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1661 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55e089ea2f01e-1661-1440778731
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transTime] => 1440778798660
+    [name] => Rebecca Roberts
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 90.217.26.83
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transId] => 3034556330
+)
+
+08-28-2015 @ 16:19:51 - ====================================
+08-28-2015 @ 20:09:28 - =============================================
+08-28-2015 @ 20:09:28 - ============= WorldPay Logging ================
+08-28-2015 @ 20:09:28 - ============= 28 Aug 2015, 20:09:28 =============
+08-28-2015 @ 20:09:28 - =============================================
+08-28-2015 @ 20:09:28 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55e0bff6e0a51-1662-1440792568
+    [amount] => 43.00
+    [currency] => GBP
+    [desc] => Order 1662 with Hair Diagnostics
+    [name] => Hggjjkklkkkjjjj ggjjj
+    [address1] => C
+    [address2] => 
+    [address3] => 
+    [town] => cgh
+    [region] => vhj
+    [postcode] => PBGF
+    [country] => TC
+    [tel] => 09865678
+    [email] => vb@hfh.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55e0bff6e0a51&order_id=2046&redirect&_wpnonce=87e73de921
+    [MC_order] => 2046
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => ce309ede26f8460887f42f67f6799b9e
+)
+
+08-28-2015 @ 20:12:41 - WorldPay Response
+08-28-2015 @ 20:12:41 - ====================================
+08-28-2015 @ 20:12:41 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;43.00
+    [AAV] => 00000
+    [tel] => 09865678
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => N
+    [address1] => C
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;43.00
+    [transStatus] => Y
+    [authCost] => 43.00
+    [amount] => 43.00
+    [countryString] => Turks and Caicos Islands
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1114
+    [authAmount] => 43.00
+    [postcode] => PBGF
+    [cost] => 43.00
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => TC
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => vb@hfh.com
+    [town] => cgh
+    [authMode] => A
+    [region] => vhj
+    [MC_order] => 2046
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55e0bff6e0a51&order_id=2046&redirect&_wpnonce=87e73de921
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1662 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55e0bff6e0a51-1662-1440792568
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => C
+
+
+cgh
+vhj
+    [transTime] => 1440792770437
+    [name] => Rebecca Roberts
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 90.217.26.83
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => C
+
+
+cgh
+vhj
+    [transId] => 3034579105
+)
+
+08-28-2015 @ 20:12:41 - ====================================
+09-08-2015 @ 13:52:04 - WorldPay Response
+09-08-2015 @ 13:52:04 - ====================================
+09-08-2015 @ 13:52:04 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;135.00
+    [AAV] => 00000
+    [tel] => 01920444797
+    [MC_callback-ppe] => http://www.hairdiagnostics.dev/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => S
+    [address1] => Rush Green Hall
+    [address2] => Rush Green
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;135.00
+    [transStatus] => Y
+    [authCost] => 135.00
+    [amount] => 135.00
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1111
+    [authAmount] => 135.00
+    [postcode] => SG13 7SD
+    [cost] => 135.00
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.dev/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => frank.martin@digital-results.com
+    [town] => Hertford
+    [authMode] => A
+    [region] => Hertfordshire
+    [MC_order] => 2112
+    [MC_FailureURL] => http://www.hairdiagnostics.dev/shopping-basket/?cancel_order=true&order=wc_order_55eee78220d0a&order_id=2112&redirect&_wpnonce=62d0583c14
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1664 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.dev/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55eee78220d0a-1664-1441720194
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => Rush Green Hall
+Rush Green
+
+Hertford
+Hertfordshire
+    [transTime] => 1441720330523
+    [name] => Frank Martin
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 188.39.152.195
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => Rush Green Hall
+Rush Green
+
+Hertford
+Hertfordshire
+    [transId] => 3035159635
+)
+
+09-08-2015 @ 13:52:04 - ====================================
+09-08-2015 @ 14:17:08 - =============================================
+09-08-2015 @ 14:17:08 - ============= WorldPay Logging ================
+09-08-2015 @ 14:17:08 - ============= 08 Sep 2015, 14:17:08 =============
+09-08-2015 @ 14:17:08 - =============================================
+09-08-2015 @ 14:17:08 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55eeede2c07cb-1664-1441721828
+    [amount] => 135.00
+    [currency] => GBP
+    [desc] => Order 1664 with Hair Diagnostics
+    [name] => Frank Martin
+    [address1] => Rush Green Hall
+    [address2] => Rush Green
+    [address3] => 
+    [town] => Hertford
+    [region] => Hertfordshire
+    [postcode] => SG13 7SD
+    [country] => GB
+    [tel] => 01920444797
+    [email] => frank.martin@digital-results.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55eeede2c07cb&order_id=2112&redirect&_wpnonce=62d0583c14
+    [MC_order] => 2112
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => 48ac0e29226585f1ffd6dda199763471
+)
+
+09-08-2015 @ 14:17:55 - WorldPay Response
+09-08-2015 @ 14:17:55 - ====================================
+09-08-2015 @ 14:17:55 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;135.00
+    [AAV] => 00000
+    [tel] => 01920444797
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => S
+    [address1] => Rush Green Hall
+    [address2] => Rush Green
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;135.00
+    [transStatus] => Y
+    [authCost] => 135.00
+    [amount] => 135.00
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1111
+    [authAmount] => 135.00
+    [postcode] => SG13 7SD
+    [cost] => 135.00
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => frank.martin@digital-results.com
+    [town] => Hertford
+    [authMode] => A
+    [region] => Hertfordshire
+    [MC_order] => 2112
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55eeede2c07cb&order_id=2112&redirect&_wpnonce=62d0583c14
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1664 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55eeede2c07cb-1664-1441721828
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => Rush Green Hall
+Rush Green
+
+Hertford
+Hertfordshire
+    [transTime] => 1441721881452
+    [name] => Frank Martin
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 188.39.152.195
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => Rush Green Hall
+Rush Green
+
+Hertford
+Hertfordshire
+    [transId] => 3035160670
+)
+
+09-08-2015 @ 14:17:55 - ====================================
+09-09-2015 @ 13:42:50 - =============================================
+09-09-2015 @ 13:42:50 - ============= WorldPay Logging ================
+09-09-2015 @ 13:42:50 - ============= 09 Sep 2015, 13:42:50 =============
+09-09-2015 @ 13:42:50 - =============================================
+09-09-2015 @ 13:42:50 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55f03758ecc7a-1668-1441806170
+    [amount] => 135.00
+    [currency] => GBP
+    [desc] => Order 1668 with Hair Diagnostics
+    [name] => Rebecca Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => Lincs.
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => becky552@hotmail.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f03758ecc7a&order_id=2116&redirect&_wpnonce=b039617a01
+    [MC_order] => 2116
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => f333234dcde30aecd5b91a59d96afd0f
+)
+
+09-09-2015 @ 13:43:19 - WorldPay Response
+09-09-2015 @ 13:43:19 - ====================================
+09-09-2015 @ 13:43:19 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;135.00
+    [AAV] => 00000
+    [tel] => 07810828282
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;135.00
+    [transStatus] => Y
+    [authCost] => 135.00
+    [amount] => 135.00
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1112
+    [authAmount] => 135.00
+    [postcode] => PE9 2AZ
+    [cost] => 135.00
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => becky552@hotmail.com
+    [town] => Stamford
+    [authMode] => A
+    [region] => Lincs.
+    [MC_order] => 2116
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f03758ecc7a&order_id=2116&redirect&_wpnonce=b039617a01
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1668 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55f03758ecc7a-1668-1441806170
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transTime] => 1441806205072
+    [name] => Rebecca Roberts
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 109.149.91.122
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transId] => 3035204408
+)
+
+09-09-2015 @ 13:43:19 - ====================================
+09-09-2015 @ 14:41:05 - =============================================
+09-09-2015 @ 14:41:05 - ============= WorldPay Logging ================
+09-09-2015 @ 14:41:05 - ============= 09 Sep 2015, 14:41:05 =============
+09-09-2015 @ 14:41:05 - =============================================
+09-09-2015 @ 14:41:05 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55f04500a494b-1669-1441809665
+    [amount] => 195.00
+    [currency] => GBP
+    [desc] => Order 1669 with Hair Diagnostics
+    [name] => Rebecca Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => 
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => rebeccaroberts5@gmail.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f04500a494b&order_id=2117&redirect&_wpnonce=15e4bdb087
+    [MC_order] => 2117
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => 90e6e59be66f6a2a619055e2ed16ecf1
+)
+
+09-09-2015 @ 14:41:36 - WorldPay Response
+09-09-2015 @ 14:41:36 - ====================================
+09-09-2015 @ 14:41:36 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;195.00
+    [AAV] => 00000
+    [tel] => 07810828282
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;195.00
+    [transStatus] => Y
+    [authCost] => 195.00
+    [amount] => 195.00
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1112
+    [authAmount] => 195.00
+    [postcode] => PE9 2AZ
+    [cost] => 195.00
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => rebeccaroberts5@gmail.com
+    [town] => Stamford
+    [authMode] => A
+    [region] => 
+    [MC_order] => 2117
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f04500a494b&order_id=2117&redirect&_wpnonce=15e4bdb087
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1669 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55f04500a494b-1669-1441809665
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+    [transTime] => 1441809702764
+    [name] => Rebecca Roberts
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 90.217.26.83
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+    [transId] => 3035207467
+)
+
+09-09-2015 @ 14:41:36 - ====================================
+09-09-2015 @ 14:50:35 - =============================================
+09-09-2015 @ 14:50:35 - ============= WorldPay Logging ================
+09-09-2015 @ 14:50:35 - ============= 09 Sep 2015, 14:50:35 =============
+09-09-2015 @ 14:50:35 - =============================================
+09-09-2015 @ 14:50:35 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55f0473824322-1670-1441810235
+    [amount] => 480.00
+    [currency] => GBP
+    [desc] => Order 1670 with Hair Diagnostics
+    [name] => Rebecca Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => 
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => rebeccakate@outlook.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f0473824322&order_id=2118&redirect&_wpnonce=15e4bdb087
+    [MC_order] => 2118
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => cbf7fd5ecef187ac663aa1c3b5fc0529
+)
+
+09-09-2015 @ 14:50:58 - WorldPay Response
+09-09-2015 @ 14:50:58 - ====================================
+09-09-2015 @ 14:50:58 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;480.00
+    [AAV] => 00000
+    [tel] => 07810828282
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;480.00
+    [transStatus] => Y
+    [authCost] => 480.00
+    [amount] => 480.00
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1112
+    [authAmount] => 480.00
+    [postcode] => PE9 2AZ
+    [cost] => 480.00
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => rebeccakate@outlook.com
+    [town] => Stamford
+    [authMode] => A
+    [region] => 
+    [MC_order] => 2118
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f0473824322&order_id=2118&redirect&_wpnonce=15e4bdb087
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1670 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55f0473824322-1670-1441810235
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+    [transTime] => 1441810264651
+    [name] => Rebecca Roberts
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 90.217.26.83
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+    [transId] => 3035209806
+)
+
+09-09-2015 @ 14:50:58 - ====================================
+09-09-2015 @ 16:20:55 - =============================================
+09-09-2015 @ 16:20:55 - ============= WorldPay Logging ================
+09-09-2015 @ 16:20:55 - ============= 09 Sep 2015, 16:20:55 =============
+09-09-2015 @ 16:20:55 - =============================================
+09-09-2015 @ 16:20:55 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55f05c66304b3-1671-1441815655
+    [amount] => 300.00
+    [currency] => GBP
+    [desc] => Order 1671 with Hair Diagnostics
+    [name] => Rebecca Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => Lincs.
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => becky552@hotmail.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f05c66304b3&order_id=2119&redirect&_wpnonce=8d813d8bb4
+    [MC_order] => 2119
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => 81b09e58c1a3fce18ca2dcd30815a757
+)
+
+09-09-2015 @ 16:21:19 - WorldPay Response
+09-09-2015 @ 16:21:19 - ====================================
+09-09-2015 @ 16:21:19 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;300.00
+    [AAV] => 00000
+    [tel] => 07810828282
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;300.00
+    [transStatus] => Y
+    [authCost] => 300.00
+    [amount] => 300.00
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1112
+    [authAmount] => 300.00
+    [postcode] => PE9 2AZ
+    [cost] => 300.00
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => becky552@hotmail.com
+    [town] => Stamford
+    [authMode] => A
+    [region] => Lincs.
+    [MC_order] => 2119
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f05c66304b3&order_id=2119&redirect&_wpnonce=8d813d8bb4
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1671 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55f05c66304b3-1671-1441815655
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transTime] => 1441815686642
+    [name] => Rebecca Roberts
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 90.217.26.83
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transId] => 3035236178
+)
+
+09-09-2015 @ 16:21:19 - ====================================
+09-09-2015 @ 18:02:01 - =============================================
+09-09-2015 @ 18:02:01 - ============= WorldPay Logging ================
+09-09-2015 @ 18:02:01 - ============= 09 Sep 2015, 18:02:01 =============
+09-09-2015 @ 18:02:01 - =============================================
+09-09-2015 @ 18:02:01 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55f07417cb213-1672-1441821721
+    [amount] => 12.98
+    [currency] => GBP
+    [desc] => Order 1672 with Hair Diagnostics
+    [name] => Rebecca Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => Lincs.
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => becky552@hotmail.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f07417cb213&order_id=2120&redirect&_wpnonce=433b37aa87
+    [MC_order] => 2120
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => bca1020a12ad85be4d6990952dcd9364
+)
+
+09-09-2015 @ 18:08:39 - WorldPay Response
+09-09-2015 @ 18:08:39 - ====================================
+09-09-2015 @ 18:08:39 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;12.98
+    [AAV] => 00000
+    [tel] => 07810828282
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;12.98
+    [transStatus] => Y
+    [authCost] => 12.98
+    [amount] => 12.98
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1112
+    [authAmount] => 12.98
+    [postcode] => PE9 2AZ
+    [cost] => 12.98
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => becky552@hotmail.com
+    [town] => Stamford
+    [authMode] => A
+    [region] => Lincs.
+    [MC_order] => 2120
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f07417cb213&order_id=2120&redirect&_wpnonce=433b37aa87
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1672 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55f07417cb213-1672-1441821721
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transTime] => 1441822127469
+    [name] => Rebecca Roberts
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 90.217.26.83
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transId] => 3035239670
+)
+
+09-09-2015 @ 18:08:39 - ====================================
+09-09-2015 @ 18:20:33 - =============================================
+09-09-2015 @ 18:20:33 - ============= WorldPay Logging ================
+09-09-2015 @ 18:20:33 - ============= 09 Sep 2015, 18:20:33 =============
+09-09-2015 @ 18:20:33 - =============================================
+09-09-2015 @ 18:20:33 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55f07870cf3e6-1673-1441822833
+    [amount] => 12.98
+    [currency] => GBP
+    [desc] => Order 1673 with Hair Diagnostics
+    [name] => Becky Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => Lincs.
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => becky.roberts@outlook.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f07870cf3e6&order_id=2121&redirect&_wpnonce=d66af448c1
+    [MC_order] => 2121
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => a0d9f764882f6b6d8555b1f8b92dc1af
+)
+
+09-09-2015 @ 18:20:59 - WorldPay Response
+09-09-2015 @ 18:20:59 - ====================================
+09-09-2015 @ 18:20:59 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;12.98
+    [AAV] => 00000
+    [tel] => 07810828282
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;12.98
+    [transStatus] => Y
+    [authCost] => 12.98
+    [amount] => 12.98
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1112
+    [authAmount] => 12.98
+    [postcode] => PE9 2AZ
+    [cost] => 12.98
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => becky.roberts@outlook.com
+    [town] => Stamford
+    [authMode] => A
+    [region] => Lincs.
+    [MC_order] => 2121
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f07870cf3e6&order_id=2121&redirect&_wpnonce=d66af448c1
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1673 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55f07870cf3e6-1673-1441822833
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transTime] => 1441822866946
+    [name] => Becky Roberts
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 90.217.26.83
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transId] => 3035240170
+)
+
+09-09-2015 @ 18:20:59 - ====================================
+09-09-2015 @ 18:22:45 - =============================================
+09-09-2015 @ 18:22:45 - ============= WorldPay Logging ================
+09-09-2015 @ 18:22:45 - ============= 09 Sep 2015, 18:22:45 =============
+09-09-2015 @ 18:22:45 - =============================================
+09-09-2015 @ 18:22:45 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55f078f480833-1674-1441822965
+    [amount] => 28.00
+    [currency] => GBP
+    [desc] => Order 1674 with Hair Diagnostics
+    [name] => Rebecca Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => Lincs.
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => becky552@hotmail.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f078f480833&order_id=2122&redirect&_wpnonce=d66af448c1
+    [MC_order] => 2122
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => f8bffc04b2d15cd7010292b978403277
+)
+
+09-09-2015 @ 18:23:04 - WorldPay Response
+09-09-2015 @ 18:23:04 - ====================================
+09-09-2015 @ 18:23:04 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;28.00
+    [AAV] => 00000
+    [tel] => 07810828282
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;28.00
+    [transStatus] => Y
+    [authCost] => 28.00
+    [amount] => 28.00
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1112
+    [authAmount] => 28.00
+    [postcode] => PE9 2AZ
+    [cost] => 28.00
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => becky552@hotmail.com
+    [town] => Stamford
+    [authMode] => A
+    [region] => Lincs.
+    [MC_order] => 2122
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f078f480833&order_id=2122&redirect&_wpnonce=d66af448c1
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1674 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55f078f480833-1674-1441822965
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transTime] => 1441822991746
+    [name] => Rebecca Roberts
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 90.217.26.83
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transId] => 3035240224
+)
+
+09-09-2015 @ 18:23:04 - ====================================
+09-09-2015 @ 18:36:53 - =============================================
+09-09-2015 @ 18:36:53 - ============= WorldPay Logging ================
+09-09-2015 @ 18:36:53 - ============= 09 Sep 2015, 18:36:53 =============
+09-09-2015 @ 18:36:53 - =============================================
+09-09-2015 @ 18:36:53 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55f07c446d748-1675-1441823813
+    [amount] => 300.00
+    [currency] => GBP
+    [desc] => Order 1675 with Hair Diagnostics
+    [name] => Rebecca Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => Lincs.
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => becky552@hotmail.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f07c446d748&order_id=2123&redirect&_wpnonce=d66af448c1
+    [MC_order] => 2123
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => 824604ddf039c00c5b4f9cf574a86ac7
+)
+
+09-09-2015 @ 18:37:17 - WorldPay Response
+09-09-2015 @ 18:37:17 - ====================================
+09-09-2015 @ 18:37:17 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;300.00
+    [AAV] => 00000
+    [tel] => 07810828282
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;300.00
+    [transStatus] => Y
+    [authCost] => 300.00
+    [amount] => 300.00
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1112
+    [authAmount] => 300.00
+    [postcode] => PE9 2AZ
+    [cost] => 300.00
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => becky552@hotmail.com
+    [town] => Stamford
+    [authMode] => A
+    [region] => Lincs.
+    [MC_order] => 2123
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f07c446d748&order_id=2123&redirect&_wpnonce=d66af448c1
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1675 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55f07c446d748-1675-1441823813
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transTime] => 1441823845676
+    [name] => Rebecca Roberts
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 90.217.26.83
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transId] => 3035240580
+)
+
+09-09-2015 @ 18:37:17 - ====================================
+09-09-2015 @ 19:15:23 - =============================================
+09-09-2015 @ 19:15:23 - ============= WorldPay Logging ================
+09-09-2015 @ 19:15:23 - ============= 09 Sep 2015, 19:15:23 =============
+09-09-2015 @ 19:15:23 - =============================================
+09-09-2015 @ 19:15:23 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55f0854903af3-1676-1441826123
+    [amount] => 480.00
+    [currency] => GBP
+    [desc] => Order 1676 with Hair Diagnostics
+    [name] => Rebecca Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => Lincs.
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => becky552@hotmail.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f0854903af3&order_id=2124&redirect&_wpnonce=d66af448c1
+    [MC_order] => 2124
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => 2e3dbaef00da4719616c4d114c3c039a
+)
+
+09-09-2015 @ 19:15:45 - WorldPay Response
+09-09-2015 @ 19:15:45 - ====================================
+09-09-2015 @ 19:15:45 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;480.00
+    [AAV] => 00000
+    [tel] => 07810828282
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;480.00
+    [transStatus] => Y
+    [authCost] => 480.00
+    [amount] => 480.00
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1112
+    [authAmount] => 480.00
+    [postcode] => PE9 2AZ
+    [cost] => 480.00
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => becky552@hotmail.com
+    [town] => Stamford
+    [authMode] => A
+    [region] => Lincs.
+    [MC_order] => 2124
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f0854903af3&order_id=2124&redirect&_wpnonce=d66af448c1
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1676 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55f0854903af3-1676-1441826123
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transTime] => 1441826153465
+    [name] => Rebecca Roberts
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 90.217.26.83
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transId] => 3035241798
+)
+
+09-09-2015 @ 19:15:45 - ====================================
+09-09-2015 @ 19:27:23 - =============================================
+09-09-2015 @ 19:27:23 - ============= WorldPay Logging ================
+09-09-2015 @ 19:27:23 - ============= 09 Sep 2015, 19:27:23 =============
+09-09-2015 @ 19:27:23 - =============================================
+09-09-2015 @ 19:27:23 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55f08819b0cdb-1677-1441826843
+    [amount] => 135.00
+    [currency] => GBP
+    [desc] => Order 1677 with Hair Diagnostics
+    [name] => Rebecca Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => Lincs.
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => becky552@hotmail.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f08819b0cdb&order_id=2125&redirect&_wpnonce=f758f2086d
+    [MC_order] => 2125
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => 9d34da1c17b69d89397abadbe599f4c7
+)
+
+09-09-2015 @ 19:27:42 - WorldPay Response
+09-09-2015 @ 19:27:42 - ====================================
+09-09-2015 @ 19:27:42 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;135.00
+    [AAV] => 00000
+    [tel] => 07810828282
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;135.00
+    [transStatus] => Y
+    [authCost] => 135.00
+    [amount] => 135.00
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1112
+    [authAmount] => 135.00
+    [postcode] => PE9 2AZ
+    [cost] => 135.00
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => becky552@hotmail.com
+    [town] => Stamford
+    [authMode] => A
+    [region] => Lincs.
+    [MC_order] => 2125
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f08819b0cdb&order_id=2125&redirect&_wpnonce=f758f2086d
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1677 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55f08819b0cdb-1677-1441826843
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transTime] => 1441826870349
+    [name] => Rebecca Roberts
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 90.217.26.83
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [transId] => 3035242179
+)
+
+09-09-2015 @ 19:27:42 - ====================================
+09-09-2015 @ 19:38:51 - =============================================
+09-09-2015 @ 19:38:51 - ============= WorldPay Logging ================
+09-09-2015 @ 19:38:51 - ============= 09 Sep 2015, 19:38:51 =============
+09-09-2015 @ 19:38:51 - =============================================
+09-09-2015 @ 19:38:51 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55f08acab7fa2-1680-1441827531
+    [amount] => 300.00
+    [currency] => GBP
+    [desc] => Order 1680 with Hair Diagnostics
+    [name] => Rebecca Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => Lincs.
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => becky552@hotmail.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f08acab7fa2&order_id=2128&redirect&_wpnonce=d66af448c1
+    [MC_order] => 2128
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => 189f9321bd10c913df36753ecb0923a2
+)
+
+09-10-2015 @ 15:46:12 - =============================================
+09-10-2015 @ 15:46:12 - ============= WorldPay Logging ================
+09-10-2015 @ 15:46:12 - ============= 10 Sep 2015, 15:46:12 =============
+09-10-2015 @ 15:46:12 - =============================================
+09-10-2015 @ 15:46:12 - Array
+(
+    [testMode] => 100
+    [instId] => 1044234
+    [cartId] => wc_order_55f1a5c130418-1682-1441899972
+    [amount] => 195.00
+    [currency] => GBP
+    [desc] => Order 1682 with Hair Diagnostics
+    [name] => Heather Roberts
+    [address1] => 55 Ryhall Road
+    [address2] => 
+    [address3] => 
+    [town] => STAMFORD
+    [region] => Lincolnshire
+    [postcode] => PE9 1UJ
+    [country] => GB
+    [tel] => +441572747474
+    [email] => martynchilvers@gmail.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f1a5c130418&order_id=2131&redirect&_wpnonce=5da1671d92
+    [MC_order] => 2131
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => edc62ab4cde74149adb091802b39e2d5
+)
+
+09-10-2015 @ 15:47:24 - WorldPay Response
+09-10-2015 @ 15:47:24 - ====================================
+09-10-2015 @ 15:47:24 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;195.00
+    [AAV] => 00000
+    [tel] => +441572747474
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => 55 Ryhall Road
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;195.00
+    [transStatus] => Y
+    [authCost] => 195.00
+    [amount] => 195.00
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1112
+    [authAmount] => 195.00
+    [postcode] => PE9 1UJ
+    [cost] => 195.00
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => martynchilvers@gmail.com
+    [town] => STAMFORD
+    [authMode] => A
+    [region] => Lincolnshire
+    [MC_order] => 2131
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f1a5c130418&order_id=2131&redirect&_wpnonce=5da1671d92
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1682 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55f1a5c130418-1682-1441899972
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 55 Ryhall Road
+
+
+STAMFORD
+Lincolnshire
+    [transTime] => 1441900051536
+    [name] => H A Roberts
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 164.215.104.141
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 55 Ryhall Road
+
+
+STAMFORD
+Lincolnshire
+    [transId] => 3035305460
+)
+
+09-10-2015 @ 15:47:24 - ====================================
+09-10-2015 @ 16:51:11 - =============================================
+09-10-2015 @ 16:51:11 - ============= WorldPay Logging ================
+09-10-2015 @ 16:51:11 - ============= 10 Sep 2015, 16:51:11 =============
+09-10-2015 @ 16:51:11 - =============================================
+09-10-2015 @ 16:51:11 - Array
+(
+    [instId] => 1044234
+    [cartId] => wc_order_55f1b4febd9fa-1684-1441903871
+    [amount] => 12.98
+    [currency] => GBP
+    [desc] => Order 1684 with Hair Diagnostics
+    [name] => Rebecca Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => Lincs.
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => becky552@hotmail.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f1b4febd9fa&order_id=2133&redirect&_wpnonce=8e4ee43ec0
+    [MC_order] => 2133
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => 99ba47fd249f89057a7cbb4900b74e5e
+)
+
+09-10-2015 @ 16:52:06 - WorldPay Response
+09-10-2015 @ 16:52:06 - ====================================
+09-10-2015 @ 16:52:06 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [region] => Lincs.
+    [MC_order] => 2133
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f1b4febd9fa&order_id=2133&redirect&_wpnonce=8e4ee43ec0
+    [AAV] => 00000
+    [authAmountString] => 
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1684 with Hair Diagnostics
+    [tel] => 07810828282
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [address1] => 2a Maiden Lane
+    [countryMatch] => B
+    [cartId] => wc_order_55f1b4febd9fa-1684-1441903871
+    [address2] => 
+    [address3] => 
+    [rawAuthCode] => C
+    [lang] => en
+    [callbackPW] => m48t8RNeH6}Q
+    [transStatus] => C
+    [amountString] => &#163;12.98
+    [authCost] => 
+    [currency] => GBP
+    [amount] => 12.98
+    [countryString] => United Kingdom
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [name] => Rebecca Roberts
+    [testMode] => 0
+    [MC_transactionNumber] => 1
+    [ipAddress] => [90.217.26.83]
+    [fax] => 
+    [rawAuthMessage] => trans.cancelled
+    [instId] => 1044234
+    [AVS] => 0000
+    [compName] => HAIR DIAGNOSTICS
+    [authAmount] => 
+    [postcode] => PE9 2AZ
+    [cost] => 12.98
+    [country] => GB
+    [authCurrency] => GBP
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [email] => becky552@hotmail.com
+    [town] => Stamford
+    [authMode] => A
+)
+
+09-10-2015 @ 16:52:06 - ====================================
+09-14-2015 @ 19:34:58 - =============================================
+09-14-2015 @ 19:34:58 - ============= WorldPay Logging ================
+09-14-2015 @ 19:34:58 - ============= 14 Sep 2015, 19:34:58 =============
+09-14-2015 @ 19:34:58 - =============================================
+09-14-2015 @ 19:34:58 - Array
+(
+    [instId] => 1044234
+    [cartId] => wc_order_55f72160ef67d-1686-1442259297
+    [amount] => 135.00
+    [currency] => GBP
+    [desc] => Order 1686 with Hair Diagnostics
+    [name] => Hazel Lord
+    [address1] => 33,GREVILLE ROAD
+    [address2] => CAMBRIDGE
+    [address3] => 
+    [town] => CAMBRIDGESHIRE
+    [region] => 
+    [postcode] => CB1 3QJ
+    [country] => GB
+    [tel] => 01223693205
+    [email] => hazel.richard@ntlworld.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f72160ef67d&order_id=2151&redirect&_wpnonce=761af68f81
+    [MC_order] => 2151
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => 4fb2fffb4ce85fec23d178fa58073f40
+)
+
+09-14-2015 @ 19:36:10 - WorldPay Response
+09-14-2015 @ 19:36:10 - ====================================
+09-14-2015 @ 19:36:10 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;135.00
+    [AAV] => 00000
+    [tel] => 01223693205
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => 33,GREVILLE ROAD
+    [address2] => CAMBRIDGE
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;135.00
+    [transStatus] => Y
+    [authCost] => 135.00
+    [amount] => 135.00
+    [countryString] => United Kingdom
+    [testMode] => 0
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 2222
+    [authAmount] => 135.00
+    [postcode] => CB1 3QJ
+    [cost] => 135.00
+    [cardType] => Visa Delta
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => hazel.richard@ntlworld.com
+    [town] => CAMBRIDGESHIRE
+    [authMode] => A
+    [region] => 
+    [MC_order] => 2151
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f72160ef67d&order_id=2151&redirect&_wpnonce=761af68f81
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1686 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55f72160ef67d-1686-1442259297
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 33,GREVILLE ROAD
+CAMBRIDGE
+
+CAMBRIDGESHIRE
+    [transTime] => 1442259379783
+    [name] => Mr R C Lord
+    [routeKey] => VISA_DEBIT-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 82.26.1.124
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 33,GREVILLE ROAD
+CAMBRIDGE
+
+CAMBRIDGESHIRE
+    [authentication] => ARespH.card.authentication.0
+    [transId] => 3980465050
+)
+
+09-14-2015 @ 19:36:10 - ====================================
+09-15-2015 @ 08:21:41 - =============================================
+09-15-2015 @ 08:21:41 - ============= WorldPay Logging ================
+09-15-2015 @ 08:21:41 - ============= 15 Sep 2015, 08:21:41 =============
+09-15-2015 @ 08:21:41 - =============================================
+09-15-2015 @ 08:21:41 - Array
+(
+    [instId] => 1044234
+    [cartId] => wc_order_55f7d51463c25-1687-1442305301
+    [amount] => 135.00
+    [currency] => GBP
+    [desc] => Order 1687 with Hair Diagnostics
+    [name] => Frank Martin
+    [address1] => Rush Green Hall
+    [address2] => Rush Green
+    [address3] => 
+    [town] => Hertford
+    [region] => Hertford
+    [postcode] => SG13 7SD
+    [country] => GB
+    [tel] => 01920444797
+    [email] => frank@digital-results.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f7d51463c25&order_id=2153&redirect&_wpnonce=47621591de
+    [MC_order] => 2153
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => b7b7248bf77a186d0b600717e729c480
+)
+
+09-15-2015 @ 08:21:45 - WorldPay Response
+09-15-2015 @ 08:21:45 - ====================================
+09-15-2015 @ 08:21:45 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [region] => Hertford
+    [MC_order] => 2153
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f7d51463c25&order_id=2153&redirect&_wpnonce=47621591de
+    [AAV] => 00000
+    [authAmountString] => 
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1687 with Hair Diagnostics
+    [tel] => 01920444797
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [address1] => Rush Green Hall
+    [countryMatch] => B
+    [cartId] => wc_order_55f7d51463c25-1687-1442305301
+    [address2] => Rush Green
+    [address3] => 
+    [rawAuthCode] => C
+    [lang] => en
+    [callbackPW] => m48t8RNeH6}Q
+    [transStatus] => C
+    [amountString] => &#163;135.00
+    [authCost] => 
+    [currency] => GBP
+    [amount] => 135.00
+    [countryString] => United Kingdom
+    [displayAddress] => Rush Green Hall
+Rush Green
+
+Hertford
+Hertford
+    [name] => Frank Martin
+    [testMode] => 0
+    [MC_transactionNumber] => 1
+    [ipAddress] => [188.39.152.195]
+    [fax] => 
+    [rawAuthMessage] => trans.cancelled
+    [instId] => 1044234
+    [AVS] => 0000
+    [compName] => HAIR DIAGNOSTICS
+    [authAmount] => 
+    [postcode] => SG13 7SD
+    [cost] => 135.00
+    [country] => GB
+    [authCurrency] => GBP
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [charenc] => UTF-8
+    [address] => Rush Green Hall
+Rush Green
+
+Hertford
+Hertford
+    [email] => frank@digital-results.com
+    [town] => Hertford
+    [authMode] => A
+)
+
+09-15-2015 @ 08:21:45 - ====================================
+09-15-2015 @ 09:13:05 - =============================================
+09-15-2015 @ 09:13:05 - ============= WorldPay Logging ================
+09-15-2015 @ 09:13:05 - ============= 15 Sep 2015, 09:13:05 =============
+09-15-2015 @ 09:13:05 - =============================================
+09-15-2015 @ 09:13:05 - Array
+(
+    [instId] => 1044234
+    [cartId] => wc_order_55f7e11fe562d-1688-1442308385
+    [amount] => 135.00
+    [currency] => GBP
+    [desc] => Order 1688 with Hair Diagnostics
+    [name] => Frank Martin
+    [address1] => Rush Green Hall
+    [address2] => Rush Green
+    [address3] => 
+    [town] => Hertford
+    [region] => Hertfordshire
+    [postcode] => SG13 7SD
+    [country] => GB
+    [tel] => 01920444797
+    [email] => frank@digital-results.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f7e11fe562d&order_id=2154&redirect&_wpnonce=47621591de
+    [MC_order] => 2154
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => 15f883f2287b354f696013f715005ac6
+)
+
+09-15-2015 @ 13:55:44 - =============================================
+09-15-2015 @ 13:55:44 - ============= WorldPay Logging ================
+09-15-2015 @ 13:55:44 - ============= 15 Sep 2015, 13:55:44 =============
+09-15-2015 @ 13:55:44 - =============================================
+09-15-2015 @ 13:55:44 - Array
+(
+    [instId] => 1044234
+    [cartId] => wc_order_55f8235e3d20b-1689-1442325344
+    [amount] => 0.01
+    [currency] => GBP
+    [desc] => Order 1689 with Hair Diagnostics
+    [name] => Rebecca Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => 
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => hairdiagnostics@gmail.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f8235e3d20b&order_id=2156&redirect&_wpnonce=2a27fbd92f
+    [MC_order] => 2156
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => c20c720e329873ae3a9e8cd780270b3d
+)
+
+09-15-2015 @ 13:56:28 - WorldPay Response
+09-15-2015 @ 13:56:28 - ====================================
+09-15-2015 @ 13:56:28 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;0.01
+    [AAV] => 00000
+    [tel] => 07810828282
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;0.01
+    [transStatus] => Y
+    [authCost] => 0.01
+    [amount] => 0.01
+    [countryString] => United Kingdom
+    [testMode] => 0
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 2222
+    [authAmount] => 0.01
+    [postcode] => PE9 2AZ
+    [cost] => 0.01
+    [cardType] => Visa Delta
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => hairdiagnostics@gmail.com
+    [town] => Stamford
+    [authMode] => A
+    [region] => 
+    [MC_order] => 2156
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f8235e3d20b&order_id=2156&redirect&_wpnonce=2a27fbd92f
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1689 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55f8235e3d20b-1689-1442325344
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+    [transTime] => 1442325394960
+    [name] => Rebecca Roberts
+    [routeKey] => VISA_DEBIT-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 109.154.190.166
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+    [authentication] => ARespH.card.authentication.0
+    [transId] => 4285661220
+)
+
+09-15-2015 @ 13:56:28 - ====================================
+09-15-2015 @ 19:02:04 - =============================================
+09-15-2015 @ 19:02:04 - ============= WorldPay Logging ================
+09-15-2015 @ 19:02:04 - ============= 15 Sep 2015, 19:02:04 =============
+09-15-2015 @ 19:02:04 - =============================================
+09-15-2015 @ 19:02:04 - Array
+(
+    [instId] => 1044234
+    [cartId] => wc_order_55f86b2b8ad95-1690-1442343724
+    [amount] => 0.01
+    [currency] => GBP
+    [desc] => Order 1690 with Hair Diagnostics
+    [name] => Rebecca Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => 
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => hairdiagnostics@gmail.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f86b2b8ad95&order_id=2158&redirect&_wpnonce=6dad5caeb1
+    [MC_order] => 2158
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => 5f20041efc547c59c7c71d0cc03c8acd
+)
+
+09-15-2015 @ 19:02:36 - WorldPay Response
+09-15-2015 @ 19:02:36 - ====================================
+09-15-2015 @ 19:02:36 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;0.01
+    [AAV] => 00000
+    [tel] => 07810828282
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;0.01
+    [transStatus] => Y
+    [authCost] => 0.01
+    [amount] => 0.01
+    [countryString] => United Kingdom
+    [testMode] => 0
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 2222
+    [authAmount] => 0.01
+    [postcode] => PE9 2AZ
+    [cost] => 0.01
+    [cardType] => Visa Delta
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => hairdiagnostics@gmail.com
+    [town] => Stamford
+    [authMode] => A
+    [region] => 
+    [MC_order] => 2158
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_55f86b2b8ad95&order_id=2158&redirect&_wpnonce=6dad5caeb1
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1690 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_55f86b2b8ad95-1690-1442343724
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+    [transTime] => 1442343765930
+    [name] => Rebecca Roberts
+    [routeKey] => VISA_DEBIT-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 90.217.26.83
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+    [authentication] => ARespH.card.authentication.0
+    [transId] => 4285789148
+)
+
+09-15-2015 @ 19:02:36 - ====================================
+10-13-2015 @ 07:39:06 - WorldPay Response
+10-13-2015 @ 07:39:06 - ====================================
+10-13-2015 @ 07:39:06 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [region] => Essex
+    [MC_order] => 1825
+    [MC_FailureURL] => http://www.hairdiagnostics.dev/shopping-basket/?cancel_order=true&order=wc_order_561cb511da649&order_id=1825&redirect&_wpnonce=e9982faa89
+    [AAV] => 00000
+    [authAmountString] => 
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1648 with Hair Diagnostics
+    [tel] => 01920444788
+    [MC_callback] => http://www.hairdiagnostics.dev/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.dev/?wc-api=WC_Gateway_Worldpay_Form
+    [address1] => 50 Mill Park Drive
+    [countryMatch] => B
+    [cartId] => wc_order_561cb511da649-1648-1444721940
+    [address2] => 
+    [address3] => 
+    [rawAuthCode] => C
+    [lang] => en
+    [callbackPW] => m48t8RNeH6}Q
+    [transStatus] => C
+    [amountString] => &#163;125.00
+    [authCost] => 
+    [currency] => GBP
+    [amount] => 125.00
+    [countryString] => United Kingdom
+    [displayAddress] => 50 Mill Park Drive
+
+
+Braintree
+Essex
+    [name] => Tom James
+    [testMode] => 100
+    [MC_transactionNumber] => 1
+    [ipAddress] => [188.39.152.195]
+    [fax] => 
+    [rawAuthMessage] => trans.cancelled
+    [instId] => 1044234
+    [AVS] => 0000
+    [compName] => HAIR DIAGNOSTICS
+    [authAmount] => 
+    [postcode] => CM7 1XF
+    [cost] => 125.00
+    [country] => GB
+    [authCurrency] => GBP
+    [MC_SuccessURL] => http://www.hairdiagnostics.dev/?wc-api=WC_Gateway_Worldpay_Form
+    [charenc] => UTF-8
+    [address] => 50 Mill Park Drive
+
+
+Braintree
+Essex
+    [email] => safe@digital-results.com
+    [town] => Braintree
+    [authMode] => A
+)
+
+10-13-2015 @ 07:39:06 - ====================================
+10-13-2015 @ 07:41:07 - WorldPay Response
+10-13-2015 @ 07:41:07 - ====================================
+10-13-2015 @ 07:41:07 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;125.00
+    [AAV] => 00000
+    [tel] => 01920444788
+    [MC_callback-ppe] => http://www.hairdiagnostics.dev/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => S
+    [address1] => 50 Mill Park Drive
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;125.00
+    [transStatus] => Y
+    [authCost] => 125.00
+    [amount] => 125.00
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1111
+    [authAmount] => 125.00
+    [postcode] => CM7 1XF
+    [cost] => 125.00
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.dev/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => safe@digital-results.com
+    [town] => Braintree
+    [authMode] => A
+    [region] => Essex
+    [MC_order] => 1826
+    [MC_FailureURL] => http://www.hairdiagnostics.dev/shopping-basket/?cancel_order=true&order=wc_order_561cb5510bfaa&order_id=1826&redirect&_wpnonce=e9982faa89
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1649 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.dev/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_561cb5510bfaa-1649-1444722003
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 50 Mill Park Drive
+
+
+Braintree
+Essex
+    [transTime] => 1444722072385
+    [name] => Tom James
+    [routeKey] => VISA-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 188.39.152.195
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 50 Mill Park Drive
+
+
+Braintree
+Essex
+    [transId] => 3037706774
+)
+
+10-13-2015 @ 07:41:07 - ====================================
+10-13-2015 @ 07:54:47 - WorldPay Response
+10-13-2015 @ 07:54:47 - ====================================
+10-13-2015 @ 07:54:47 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;175.00
+    [AAV] => 00000
+    [tel] => 01920444788
+    [MC_callback-ppe] => http://www.hairdiagnostics.dev/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => S
+    [address1] => 50 Mill Park Drive
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;175.00
+    [transStatus] => Y
+    [authCost] => 175.00
+    [amount] => 175.00
+    [countryString] => United Kingdom
+    [testMode] => 100
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1111
+    [authAmount] => 175.00
+    [postcode] => CM7 1XF
+    [cost] => 175.00
+    [cardType] => MasterCard
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.dev/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => tom@digital-results.com
+    [town] => Braintree
+    [authMode] => A
+    [region] => Essex
+    [MC_order] => 1827
+    [MC_FailureURL] => http://www.hairdiagnostics.dev/shopping-basket/?cancel_order=true&order=wc_order_561cb8aa5142a&order_id=1827&redirect&_wpnonce=e9982faa89
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1650 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.dev/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_561cb8aa5142a-1650-1444722861
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => 50 Mill Park Drive
+
+
+Braintree
+Essex
+    [transTime] => 1444722892740
+    [name] => Tom James
+    [routeKey] => ECMC-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 188.39.152.195
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => 50 Mill Park Drive
+
+
+Braintree
+Essex
+    [transId] => 3037707258
+)
+
+10-13-2015 @ 07:54:47 - ====================================
+10-13-2015 @ 10:23:30 - =============================================
+10-13-2015 @ 10:23:30 - ============= WorldPay Logging ================
+10-13-2015 @ 10:23:30 - ============= 13 Oct 2015, 10:23:30 =============
+10-13-2015 @ 10:23:30 - =============================================
+10-13-2015 @ 10:23:30 - Array
+(
+    [instId] => 1044234
+    [cartId] => wc_order_561cdba134730-1691-1444731810
+    [amount] => 135.00
+    [currency] => GBP
+    [desc] => Order 1691 with Hair Diagnostics
+    [name] => Rebecca Roberts
+    [address1] => 2a Maiden Lane
+    [address2] => 
+    [address3] => 
+    [town] => Stamford
+    [region] => Lincs.
+    [postcode] => PE9 2AZ
+    [country] => GB
+    [tel] => 07810828282
+    [email] => becky552@hotmail.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_561cdba134730&order_id=2166&redirect&_wpnonce=4d5e19a5fb
+    [MC_order] => 2166
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => 770d05bcefb3dd7018365c141422e5b8
+)
+
+10-13-2015 @ 10:23:43 - WorldPay Response
+10-13-2015 @ 10:23:43 - ====================================
+10-13-2015 @ 10:23:43 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [region] => Lincs.
+    [MC_order] => 2166
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_561cdba134730&order_id=2166&redirect&_wpnonce=4d5e19a5fb
+    [AAV] => 00000
+    [authAmountString] => 
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1691 with Hair Diagnostics
+    [tel] => 07810828282
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [address1] => 2a Maiden Lane
+    [countryMatch] => B
+    [cartId] => wc_order_561cdba134730-1691-1444731810
+    [address2] => 
+    [address3] => 
+    [rawAuthCode] => C
+    [lang] => en
+    [callbackPW] => m48t8RNeH6}Q
+    [transStatus] => C
+    [amountString] => &#163;135.00
+    [authCost] => 
+    [currency] => GBP
+    [amount] => 135.00
+    [countryString] => United Kingdom
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [name] => Rebecca Roberts
+    [testMode] => 0
+    [MC_transactionNumber] => 1
+    [ipAddress] => [2.124.122.205]
+    [fax] => 
+    [rawAuthMessage] => trans.cancelled
+    [instId] => 1044234
+    [AVS] => 0000
+    [compName] => HAIR DIAGNOSTICS
+    [authAmount] => 
+    [postcode] => PE9 2AZ
+    [cost] => 135.00
+    [country] => GB
+    [authCurrency] => GBP
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+Lincs.
+    [email] => becky552@hotmail.com
+    [town] => Stamford
+    [authMode] => A
+)
+
+10-13-2015 @ 10:23:43 - ====================================
+10-13-2015 @ 13:51:10 - WorldPay Response
+10-13-2015 @ 13:51:11 - ====================================
+10-13-2015 @ 13:51:11 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [region] => 
+    [MC_order] => 2167
+    [MC_FailureURL] => http://www.hairdiagnostics.dev/shopping-basket/?cancel_order=true&order=wc_order_561d0c5136555&order_id=2167&redirect&_wpnonce=5b398018ed
+    [AAV] => 00000
+    [authAmountString] => 
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1692 with Hair Diagnostics
+    [tel] => 07810828282
+    [MC_callback] => http://www.hairdiagnostics.dev/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.dev/?wc-api=WC_Gateway_Worldpay_Form
+    [address1] => 2a Maiden Lane
+    [countryMatch] => B
+    [cartId] => wc_order_561d0c5136555-1692-1444744274
+    [address2] => 
+    [address3] => 
+    [rawAuthCode] => C
+    [lang] => en
+    [callbackPW] => m48t8RNeH6}Q
+    [transStatus] => C
+    [amountString] => &#163;135.00
+    [authCost] => 
+    [currency] => GBP
+    [amount] => 135.00
+    [countryString] => United Kingdom
+    [displayAddress] => 2a Maiden Lane
+
+
+Stamford
+    [name] => Rebecca Roberts
+    [testMode] => 0
+    [MC_transactionNumber] => 1
+    [ipAddress] => [188.39.152.195]
+    [fax] => 
+    [rawAuthMessage] => trans.cancelled
+    [instId] => 1044234
+    [AVS] => 0000
+    [compName] => HAIR DIAGNOSTICS
+    [authAmount] => 
+    [postcode] => PE9 2AZ
+    [cost] => 135.00
+    [country] => GB
+    [authCurrency] => GBP
+    [MC_SuccessURL] => http://www.hairdiagnostics.dev/?wc-api=WC_Gateway_Worldpay_Form
+    [charenc] => UTF-8
+    [address] => 2a Maiden Lane
+
+
+Stamford
+    [email] => hairdiagnostics@gmail.com
+    [town] => Stamford
+    [authMode] => A
+)
+
+10-13-2015 @ 13:51:11 - ====================================
+11-17-2015 @ 13:53:20 - =============================================
+11-17-2015 @ 13:53:20 - ============= WorldPay Logging ================
+11-17-2015 @ 13:53:20 - ============= 17 Nov 2015, 13:53:20 =============
+11-17-2015 @ 13:53:20 - =============================================
+11-17-2015 @ 13:53:20 - Array
+(
+    [instId] => 1044234
+    [cartId] => wc_order_564b314dd37af-1692-1447768399
+    [amount] => 300.00
+    [currency] => GBP
+    [desc] => Order 1692 with Hair Diagnostics
+    [name] => Turgay Ali
+    [address1] => Flat 16 forest lawns
+    [address2] => 33 orchard road
+    [address3] => 
+    [town] => Bromley
+    [region] => Kent
+    [postcode] => BR1 2TG
+    [country] => GB
+    [tel] => 07731457323
+    [email] => clearbluesea@mac.com
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_564b314dd37af&order_id=2254&redirect&_wpnonce=4e2f25fecd
+    [MC_order] => 2254
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => 660bde767e79d657b90cddac05e4f022
+)
+
+11-17-2015 @ 13:54:13 - WorldPay Response
+11-17-2015 @ 13:54:13 - ====================================
+11-17-2015 @ 13:54:13 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;300.00
+    [AAV] => 00000
+    [tel] => 07731457323
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => Y
+    [address1] => Flat 16 forest lawns
+    [address2] => 33 orchard road
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;300.00
+    [transStatus] => Y
+    [authCost] => 300.00
+    [amount] => 300.00
+    [countryString] => United Kingdom
+    [testMode] => 0
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 2242
+    [authAmount] => 300.00
+    [postcode] => BR1 2TG
+    [cost] => 300.00
+    [cardType] => Visa
+    [authCurrency] => GBP
+    [country] => GB
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => clearbluesea@mac.com
+    [town] => Bromley
+    [authMode] => A
+    [region] => Kent
+    [MC_order] => 2254
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_564b314dd37af&order_id=2254&redirect&_wpnonce=4e2f25fecd
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1692 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_564b314dd37af-1692-1447768399
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => Flat 16 forest lawns
+33 orchard road
+
+Bromley
+Kent
+    [transTime] => 1447768461095
+    [name] => MR T ALI
+    [routeKey] => VISA_CREDIT-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 208.69.34.231
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => Flat 16 forest lawns
+33 orchard road
+
+Bromley
+Kent
+    [authentication] => ARespH.card.authentication.1
+    [transId] => 4923462758
+)
+
+11-17-2015 @ 13:54:13 - ====================================
+01-23-2016 @ 21:13:29 - =============================================
+01-23-2016 @ 21:13:29 - ============= WorldPay Logging ================
+01-23-2016 @ 21:13:29 - ============= 23 Jan 2016, 21:13:29 =============
+01-23-2016 @ 21:13:29 - =============================================
+01-23-2016 @ 21:13:29 - Array
+(
+    [instId] => 1044234
+    [cartId] => wc_order_56a3ecf7e7ce1-1693-1453583609
+    [amount] => 135.00
+    [currency] => GBP
+    [desc] => Order 1693 with Hair Diagnostics
+    [name] => Steven Foxley
+    [address1] => Revheimsberget 19
+    [address2] => 
+    [address3] => 
+    [town] => Hafrsfjord
+    [region] => 
+    [postcode] => 4046
+    [country] => NO
+    [tel] => 004790171465
+    [email] => stevenjf@broadpark.no
+    [fixContact] => 
+    [hideContact] => 
+    [accId1] => 
+    [authMode] => A
+    [hideCurrency] => 
+    [lang] => yes
+    [noLanguageMenu] => 
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_56a3ecf7e7ce1&order_id=2260&redirect&_wpnonce=2fa0e99528
+    [MC_order] => 2260
+    [MC_transactionNumber] => 1
+    [signatureFields] => instId:amount:currency:cartId
+    [signature] => ab65bbdf94dfc766b4ebbcc090b48041
+)
+
+01-23-2016 @ 21:16:06 - WorldPay Response
+01-23-2016 @ 21:16:06 - ====================================
+01-23-2016 @ 21:16:06 - Array
+(
+    [installation] => 1044234
+    [msgType] => authResult
+    [wc-api] => WC_Gateway_WorldPay_Form
+    [authAmountString] => &#163;135.00
+    [AAV] => 00000
+    [tel] => 004790171465
+    [MC_callback-ppe] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [countryMatch] => N
+    [address1] => Revheimsberget 19
+    [address2] => 
+    [address3] => 
+    [callbackPW] => m48t8RNeH6}Q
+    [rawAuthCode] => A
+    [amountString] => &#163;135.00
+    [transStatus] => Y
+    [authCost] => 135.00
+    [amount] => 135.00
+    [countryString] => Norway
+    [testMode] => 0
+    [fax] => 
+    [rawAuthMessage] => cardbe.msg.authorised
+    [AVS] => 1444
+    [authAmount] => 135.00
+    [postcode] => 4046
+    [cost] => 135.00
+    [cardType] => Visa Delta
+    [authCurrency] => GBP
+    [country] => NO
+    [MC_SuccessURL] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [email] => stevenjf@broadpark.no
+    [town] => Hafrsfjord
+    [authMode] => A
+    [region] => 
+    [MC_order] => 2260
+    [MC_FailureURL] => http://www.hairdiagnostics.com/shopping-basket/?cancel_order=true&order=wc_order_56a3ecf7e7ce1&order_id=2260&redirect&_wpnonce=2fa0e99528
+    [_SP_charEnc] => UTF-8
+    [desc] => Order 1693 with Hair Diagnostics
+    [MC_callback] => http://www.hairdiagnostics.com/?wc-api=WC_Gateway_Worldpay_Form
+    [cartId] => wc_order_56a3ecf7e7ce1-1693-1453583609
+    [lang] => en
+    [currency] => GBP
+    [displayAddress] => Revheimsberget 19
+
+
+Hafrsfjord
+    [transTime] => 1453583773485
+    [name] => S J Foxley
+    [routeKey] => VISA_DEBIT-SSL
+    [MC_transactionNumber] => 1
+    [ipAddress] => 2.122.78.63
+    [instId] => 1044234
+    [compName] => HAIR DIAGNOSTICS
+    [charenc] => UTF-8
+    [address] => Revheimsberget 19
+
+
+Hafrsfjord
+    [authentication] => ARespH.card.authentication.0
+    [transId] => 4961856821
+)
+
+01-23-2016 @ 21:16:06 - ====================================

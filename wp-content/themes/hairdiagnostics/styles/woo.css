@@ -1,0 +1,104 @@
+/* CSS Document */
+
+#content {}
+.page-description, p {text-align:left;font-family: 'Open Sans', sans-serif;font-size:13px;line-height:24px;font-weight:400;color:#333333;}
+.page-description p {display:block;min-height:1em;max-height:1em;overflow:hidden;width:100%;text-align:center;}
+.page-description h3 {margin:.3em .9em;display:inline-block;font-weight:300;font-size:2em;line-height:1.1em;margin-bottom:1em;}
+.page-description em {font-style:italic;color:#28a9e0;font-family:"Times New Roman", Times, serif;}
+ul.products {display:block;list-style:none;margin:2em 0 4em 0;}
+ul.products:after {content: '';clear:both;}
+ul.products li {display:block;list-style:none;width:23%;float:left;padding:1em;margin-right:2%;margin-bottom:1em;position:relative;border:1px solid #eaebec;min-height:270px;}
+ul.products li:nth-child(4n+0) {width:25%;margin-right:0;}
+ul.products li  {text-decoration:none;}
+.add_to_cart_button {display:inline-block;padding:.4em 1em;color:#28a9e0;text-decoration:none;position:absolute;bottom:0;right:0;padding-right:40px;background:url(/wp-content/themes/hairdiagnostics/images/add-to-cart.png) right center no-repeat #fff;font-weight:700;font-family: 'Open Sans', sans-serif;height:35px;border-left:1px solid #e7e7e7;border-top:1px solid #e7e7e7;}
+.product h3 {padding:1em 0 .2em 0;color:#05538e;text-decoration:none;width:100%;text-align:center;font-weight:300;font-family: 'Open Sans', sans-serif;margin-bottom:1em;min-height:70px;max-height:70px;overflow:hidden;}
+
+.product span.price {display:block;color:#666;position:absolute;bottom:0;left:0;padding:0 1em .4em 1em;font-weight:700;font-family: 'Open Sans', sans-serif;}
+.woocommerce #content input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce-page #respond input#submit.alt, .woocommerce-page a.button.alt, .woocommerce-page button.button.alt, .woocommerce-page input.button.alt {background:#28a9e0;border-color:#28a9e0;text-shadow:none;font-family: 'Open Sans', sans-serif;font-weight:400;padding:1em 1em;}
+.woocommerce #content input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce-page #content input.button.alt:hover, .woocommerce-page #respond input#submit.alt:hover, .woocommerce-page a.button.alt:hover, .woocommerce-page button.button.alt:hover, .woocommerce-page input.button.alt:hover {background:#05538e;border-color:#05538e;text-shadow:none;}
+
+.woocommerce #content input.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-page #content input.button, .woocommerce-page #respond input#submit, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button {background:#f8f7f7;border-color:#f8f7f7;text-shadow:none;font-family: 'Open Sans', sans-serif;font-weight:400;padding:1em 1em;webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;}
+.woocommerce input.button:hover {background:#dedddd;border-color:#dedddd;color:#fff;}
+.woocommerce input.button {border-radius:0;-webkit-border-radius:0;}
+
+.woocommerce .woocommerce-message, .woocommerce-page .woocommerce-message {border-top: 3px solid #28a9e0;}
+.woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message, .woocommerce-page .woocommerce-error, .woocommerce-page .woocommerce-info, .woocommerce-page .woocommerce-message {padding: 1em 1em 1em 3.5em!important;margin: 0 0 2em!important;position: relative;-webkit-border-radius:0;border-radius:0;background: #fcfbfc;background: -webkit-gradient(linear,left top,left bottom,from(#fcfbfc),to(#f7f6f7));background: -webkit-linear-gradient(#fcfbfc,#f7f6f7);background: -moz-linear-gradient(center top,#fcfbfc 0,#f7f6f7 100%);background: -moz-gradient(center top,#fcfbfc 0,#f7f6f7 100%);color: #5e5e5e;font-family: 'Open Sans', sans-serif;text-shadow:none;list-style: none!important;width: auto;-webkit-box-shadow:none;box-shadow:none;}
+.woocommerce .woocommerce-message:before, .woocommerce-page .woocommerce-message:before {background-color: #28a9e0;height:auto;}
+.woocommerce table.shop_table, .woocommerce-page table.shop_table {-webkit-border-radius:0;border-radius:0;}
+.woocommerce #content table.cart a.remove, .woocommerce table.cart a.remove, .woocommerce-page #content table.cart a.remove, .woocommerce-page table.cart a.remove {color: #05538e;}
+.woocommerce #content table.cart a.remove:hover, .woocommerce table.cart a.remove:hover, .woocommerce-page #content table.cart a.remove:hover, .woocommerce-page table.cart a.remove:hover {background-color:#05538e;
+color: #fff;}
+.cart_totals h2 {display: inline-block;background:none;font-weight: 300;color: #999;padding: .3em 1.5em;font-size: 1.4em;margin-bottom: 1em;width:100%;border-bottom:1px solid #f8f7f7;}
+
+.woocommerce h3 {margin-left:0;color:#28a9e0;}
+
+.woocommerce form .form-row.validate-required.woocommerce-invalid .chosen-drop, .woocommerce form .form-row.validate-required.woocommerce-invalid .chosen-single, .woocommerce form .form-row.validate-required.woocommerce-invalid input.input-text, .woocommerce form .form-row.validate-required.woocommerce-invalid select, .woocommerce-page form .form-row.validate-required.woocommerce-invalid .chosen-drop, .woocommerce-page form .form-row.validate-required.woocommerce-invalid .chosen-single, .woocommerce-page form .form-row.validate-required.woocommerce-invalid input.input-text, .woocommerce-page form .form-row.validate-required.woocommerce-invalid select {border:1px #28a9e0 solid;}
+
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea, .woocommerce-page form .form-row input.input-text, .woocommerce-page form .form-row textarea {padding:.4em 1em;}
+
+.woocommerce .woocommerce-error, .woocommerce-page .woocommerce-error {border-top: 3px solid #28a9e0;}
+.woocommerce .woocommerce-error:before, .woocommerce-page .woocommerce-error:before {background:#28a9e0;height:auto;}
+
+.woocommerce form .form-row .required, .woocommerce-page form .form-row .required {color: #05538e;font-weight: 700;border: 0;}
+
+.woocommerce #payment div.payment_box, .woocommerce-page #payment div.payment_box {
+position: relative;width: 100%;padding: 1em 2%;margin: 1em 0;font-size: .92em;-webkit-border-radius:0;border-radius:0;line-height: 1.5em;background: #28a9e0;box-shadow:none;-webkit-box-shadow:none;color:#fff!important;text-shadow:none;}
+.woocommerce #payment div.payment_box:after, .woocommerce-page #payment div.payment_box:after {content: "";display: block;border: 8px solid #28a9e0;border-right-color: transparent;border-left-color: transparent;border-top-color: transparent;position: absolute;top: -3px;left: 0;margin: -1em 0 0 2em;}
+.woocommerce #payment div.payment_box p:last-child, .woocommerce-page #payment div.payment_box p {color:#fff!important;}
+
+.woocommerce .woocommerce-error:before, .woocommerce .woocommerce-info:before, .woocommerce .woocommerce-message:before, .woocommerce-page .woocommerce-error:before, .woocommerce-page .woocommerce-info:before, .woocommerce-page .woocommerce-message:before {height:auto;}
+
+.woocommerce form.checkout_coupon, .woocommerce form.login, .woocommerce form.register, .woocommerce-page form.checkout_coupon, .woocommerce-page form.login, .woocommerce-page form.register {-webkit-border-radius:0;
+border-radius:0;}
+.woocommerce #content table.cart td.actions .coupon .input-text, .woocommerce table.cart td.actions .coupon .input-text, .woocommerce-page #content table.cart td.actions .coupon .input-text, .woocommerce-page table.cart td.actions .coupon .input-text {
+float: left;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+box-shadow: none;
+/* -webkit-box-shadow: none; */
+border: 1px solid #e0dadf;
+padding: .9em;
+width:150px;
+margin: 0 4px 0 0;
+outline: 0;
+line-height: 1em;}
+.postleftcontent .woocommerce .bit-2 h2 {min-width:100px;}
+.woocommerce form.checkout_coupon, .woocommerce form.login, .woocommerce form.register, .woocommerce-page form.checkout_coupon, .woocommerce-page form.login, .woocommerce-page form.register {border: 1px solid #e0dadf;padding: 20px;margin: 2em 1.5em 2em 0;text-align: left;-webkit-border-radius:0;border-radius:0;}
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea, .woocommerce-page form .form-row input.input-text, .woocommerce-page form .form-row textarea {padding:.7em 1em;border:1px #ccc solid;}
+.woocommerce #content input.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-page #content input.button, .woocommerce-page #respond input#submit, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button {background: #f8f7f7;
+border-color: #f8f7f7;
+text-shadow: none;
+font-family: 'Open Sans', sans-serif;
+font-weight: 400;
+padding: 1em 1em;
+webkit-box-shadow: none;
+-moz-box-shadow: none;
+box-shadow: none;}
+.woocommerce .woocommerce-error, .woocommerce-page .woocommerce-error {width:97%;}
+.woocommerce .woocommerce-error, .woocommerce-page .woocommerce-error {border-top: 3px solid #28a9e0;}
+.woocommerce .woocommerce-error:before, .woocommerce-page .woocommerce-error:before {background-color: #28a9e0;content: "\00d7";font-weight: 700;}
+mark {
+background-color:inherit;
+color:inherit;
+}
+
+@media (max-width: 29.9999em) {
+ul.products li {list-style:none;width:100%;float:left;margin-right:0;}
+ul.products li:nth-child(2n+0) {width:100%;margin-right:0;}
+ul.products li:nth-child(4n+0) {width:100%;margin-right:0;}
+}
+/* Portrait  */
+@media (min-width: 30em) and (max-width: 39.9999em) {
+ul.products li {list-style:none;width:48%;float:left;margin-right:2%;}
+ul.products li:nth-child(2n+0) {width:50%;margin-right:0;}
+}
+/* Portrait tablet to landscape */
+@media (min-width: 40em) and (max-width: 59.9999em) {
+
+}
+
+/* Landscape to small desktop */
+@media (min-width: 60em) and (max-width: 77.000em) {
+
+}
